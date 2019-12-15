@@ -3,4 +3,4 @@ function foo(bar) {
 }
 
 var x = foo("bar");
-console.log(x);
+console.log(x + " and foo");
